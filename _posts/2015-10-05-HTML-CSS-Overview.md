@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "HTML/CSS Overview"
-date: 2015-10-05 17:00:00 -0700
 comments: false
 published: false
 ---

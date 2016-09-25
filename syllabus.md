@@ -6,14 +6,12 @@ permalink: /syllabus/
 
 ## Instructor contact info
 
-Michale Sweeney
+Michael Sweeney
 
 * Email: <mike.sweeney@theironyard.com>
 * Phone: (702) 544-8525
 
 ## Schedule
-
-Class is from February 29th to May 20th.
 
 Lecture is from 9:00 AM to 12:00 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
 
@@ -22,56 +20,6 @@ Lab is from 1 PM to 5 PM Monday-Thursday and 9 AM - 5 PM on Friday.
 ### Office hours and one-on-one instruction
 
 A teacher or TA will be available Monday-Friday from 9 AM to 5 PM at minimum. During lab time, you can schedule one-on-one time with either of us. After hours, we may be available in the classroom or in Slack, which we use for group communication.
-
-### Holidays
-
-TBD
-
-## Topics
-
-These topics are listed week-by-week. However, this list is not definitive and we will reorder things based off how the class is going.
-
-Each list of topics is a list of things students should be comfortable with at the end of that week.
-
-I'm still working on finalizing all of the topics for each week. I'll make sure to keep this updated.
-
-### Week 1 Objectives
-TBD
-
-### Week 2 Objectives
-TBD
-
-### Week 3
-
-TBD
-
-### Week 4
-
-TBD
-
-### Week 5
-
-TBD
-
-### Week 6
-
-TBD
-### Week 7
-
-TBD
-
-### Week 8
-
-TBD
-
-### Week 9
-
-TBD
-
-### Weeks 10-12
-
-You will be working on your final project and presentation during this time.
-
 
 ## Capstone project
 
